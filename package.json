@@ -27,7 +27,7 @@
     }
   ],
   "bin": {
-    "bitcore-node-dash": "./bin/bitcore-node-dash"
+    "taurus-node": "./bin/taurus-node"
   },
   "scripts": {
     "preinstall": "./scripts/download",
